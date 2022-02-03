@@ -1,7 +1,7 @@
 /*write a program to print pattern
    *****
-    ***
-     *
+     ***
+       *
 Date:26/01/2022*/
 
 #include<stdio.h>
